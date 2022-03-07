@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/TilemapStart.unity
+- path: Assets/Scenes/LukeProject5Alevel.unity
   isLoaded: 1
   isActive: 1
